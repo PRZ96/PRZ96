@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I´m Pablo Pérez @PRZ96
+
+- 🔭 I’m currently working in Sepanka Suite
+- 👀 I’m interested in Coding, Video Games, Music and Formula 1!
+- 🌱 I’m currently learning MEVN stack and SASS
 
 <!--
 **PRZ96/PRZ96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
