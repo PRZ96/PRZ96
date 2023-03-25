@@ -4,5 +4,4 @@
 - 👀 I’m interested in Coding, Video Games, Music and Formula 1!
 - 🌱 I’m currently learning MEVN stack and SASS
 
-
-[[My Resume](https://prz96.github.io/MyResume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
+[My Resume](https://prz96.github.io/MyResume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
