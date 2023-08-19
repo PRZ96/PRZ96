@@ -5,3 +5,8 @@
 - 🌱 I’m currently learning MEVN stack and UX/UI Design
 
 [My Resume](https://prz96.github.io/MyResume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
+
+### Freelance Projects
+
+- [UnidadMedicaSante.com.mx](unidadmedicasante.com.mx) Medical Unit Landing Page
+- [LevelAgencyModels.com](levelagencymodels.com) Models Agency Landing Page
