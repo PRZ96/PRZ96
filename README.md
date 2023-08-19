@@ -8,5 +8,5 @@
 
 ### Freelance Projects
 
-- [UnidadMedicaSante.com.mx](unidadmedicasante.com.mx) Medical Unit Landing Page
-- [LevelAgencyModels.com](levelagencymodels.com) Models Agency Landing Page
+- [UnidadMedicaSante.com.mx](https://unidadmedicasante.com.mx) Medical Unit Landing Page
+- [LevelAgencyModels.com](https://levelagencymodels.com) Models Agency Landing Page
