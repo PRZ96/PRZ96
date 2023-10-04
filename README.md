@@ -6,7 +6,7 @@
 
 [My Resume](https://prz96.github.io/MyResume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
 
-### Freelance Projects
+### Relevant Projects
 
 - [UnidadMedicaSante.com.mx](https://unidadmedicasante.com.mx) Medical Unit Landing Page
 - [LevelAgencyModels.com](https://levelagencymodels.com) Models Agency Landing Page
