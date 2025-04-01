@@ -4,9 +4,11 @@
 - 👀 I’m interested in Coding, Video Games, Music and Formula 1!
 - 🌱 I’m currently learning UX/UI Design
 
-[My Resume](https://prz96.github.io/MyResume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
+[My Resume](https://prz96.netlify.app/resume) | [Linkedin Profile](https://www.linkedin.com/in/pabloprz/)
 
 ### Relevant Projects
 
-- [UnidadMedicaSante.com.mx](https://unidadmedicasante.com.mx) Medical Unit Landing Page
-- [LevelAgencyModels.com](https://levelagencymodels.com) Models Agency Landing Page
+- [PRZCollectibles.com](https://przcollectibles.com) An online catalog designed for a collectibles store specializing in carts and figures.
+- [Personal Portfolio](https://prz96.netlify.app) A dynamic website that showcases my career and projects.
+- [UnidadMedicaSante.com.mx](https://unidadmedicasante.com.mx) Landing page for a medical unit in Tlaquepaque.
+- [LevelAgencyModels.com](https://levelagencymodels.com) Landing page for a model agency in Guadalajara.
